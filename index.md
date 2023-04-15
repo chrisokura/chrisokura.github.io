@@ -13,9 +13,8 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 
 ---
 ### Timeseries Forecasting: Recurrent Neural Networks
-test test test
 
-test again 
+Leveraging a Recurrent Neural Network to forecast sunspots. 
 
 <img src="images/RNN_Sunspots.jpg?raw=true"/>
 
