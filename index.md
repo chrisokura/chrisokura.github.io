@@ -15,6 +15,8 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 ### Timeseries Forecasting: Recurrent Neural Networks
 test test test
 
+<img src="images/RNN_Sunspots.jpg?raw=true"/>
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
