@@ -1,15 +1,19 @@
-## Portfolio
+## Selected projects in data science, machine learning and NLP
 
 ---
 
-### Category Name 1 
+### Deep NLP for hate speech detection
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Extreme Gradient Boosting (XGBoost) is one of the most powerful machine learning algorithms. In this project I build an XGBoost model in scikit-learn to classify a penguin's species given its quantifiable characteristics. Dataset can be found [here.](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)  
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
+
+View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Timeseries Forecasting: Recurrent Neural Networks
+test test test
 
 ---
 [Project 3 Title](http://example.com/)
