@@ -2,21 +2,12 @@ title: Chris Okura # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-  test test test test
-  <br><br>
-  this is another test
-  <br><br>
-
   Data Scientist and Business Intelligence Professional with 4+ years in tech, transportation, and logistics. Master of Science in Business Analytics from Cal Poly. 
- 
- 
- 
   <br><br>
   Ranked in top 5% of Bachelor of Science in Economics undergraduate cohort at the University of Washington. 
   <br><br>
   <a href="https://www.linkedin.com/in/chrisokura/">View My LinkedIn Profile</a> 
   <br><br>
-  TEST TEST TEST 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
