@@ -3,6 +3,9 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   test test test test
+  <br><br>
+  this is another test
+  <br><br>
 
   Data Scientist and Business Intelligence Professional with 4+ years in tech, transportation, and logistics. Master of Science in Business Analytics from Cal Poly. 
  
