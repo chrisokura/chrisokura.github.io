@@ -2,16 +2,6 @@
 
 ---
 
-### XGBoost for Classification
-
-Extreme Gradient Boosting (XGBoost) is one of the most powerful machine learning algorithms for both regression and classification. In this project, I build an XGBoost model in scikit-learn to classify a penguin's species given its quantifiable characteristics. Dataset can be found [here.](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)  
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
-
-View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)
-
-
----
 ### Timeseries Forecasting: Recurrent Neural Networks
 
 Recurrent Neural Networks are popular algorithms for time-series data because of their ability to retain memory and learn from previous iterations. In this project, I optimize a Recurrent Neural Network by tuning parameters and testing different activation functions to predict the number of sunspots. Sunspots are temporary phenomena on the Sun's surface that appear as spots darker than the surrounding areas.
@@ -34,8 +24,15 @@ Model Stacking can improve performance by combining the outputs of multiple mode
 
 View Code on [Colab](https://colab.research.google.com/drive/1dG6bgo5Q-5RafGMY5PuEgde9oaNM_EPO)
 
+---
 
+### XGBoost for Classification
 
+Extreme Gradient Boosting (XGBoost) is one of the most powerful machine learning algorithms for both regression and classification. In this project, I build an XGBoost model in scikit-learn to classify a penguin's species given its quantifiable characteristics. Dataset can be found [here.](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)  
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
+
+View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)
 
 
 ---
