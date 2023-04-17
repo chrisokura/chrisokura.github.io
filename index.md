@@ -39,6 +39,8 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 
 ### Airline Customer Satisfaction: Tree Based Models
 
+Tree based models like Decision Trees are based on conditional splits in data to categorize obervations into buckets. When building an algorithm, I often start with a decision tree for visualization and feature importance purposes. The first picture below visualizes a simple decision tree with a maximum node depth of 3. We can see  the conditional splits the algorithm makes in order to predict whether an airline customer was satisfied with their flight. Additionally, with Decision Tree Models and and most machine learning algorithms, we can view feature importance. The second graw displays feature importance, or in other words, the variables most important to a customers flight satisfaction.
+
 Model Stacking can improve performance by combining the outputs of multiple models. In this project, I combine KNN, Linear Regression, Random Forest, and Decision Tree models into a singular algorithm to predict the 'Sleep Score' FitBit provides. Dataset can be found [here.](https://www.kaggle.com/code/sasakitetsuya/how-can-we-get-good-sleep-fitbit-data-analysis/input) 
 
 <img src="images/Decision Tree.jpg?raw=true"/>
