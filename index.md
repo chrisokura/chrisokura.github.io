@@ -39,7 +39,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 
 ## Airline Customer Satisfaction: Tree Based Models
 
-Tree based models like Decision Trees are based on conditional splits in data to categorize obervations into buckets. When building an algorithm, I often start with a decision tree for visualization and feature importance purposes. The first picture below visualizes a simple decision tree with a maximum node depth of 3. We can see  the conditional splits the algorithm makes in order to predict whether an airline customer was satisfied with their flight. With decision trees and most machine learning algorithms, we can view feature importance. The second graph displays feature importance, or in other words, the variables most important to a customer's flight satisfaction.
+Tree based models like Decision Trees are based on conditional splits in data to categorize obervations into buckets. When building an algorithm, I often start with a decision tree for visualization and feature importance purposes. The first picture below visualizes a simple decision tree with a maximum node depth of 3. We can see  the conditional splits the algorithm makes in order to predict an airline customer's satisfaction. The second graph displays feature importance, or in other words, the variables more important in determining if a customer was pleased with their flight experience. 
 
 <img src="images/Decision Tree.jpg?raw=true"/>
 <br><br>
