@@ -1,8 +1,8 @@
-## Selected projects in data science and machine learning
+# Selected projects in data science and machine learning
 
 ---
 
-### Timeseries Forecasting: Recurrent Neural Networks
+## Timeseries Forecasting: Recurrent Neural Networks
 
 Recurrent Neural Networks are popular algorithms for time-series data because of their ability to retain memory and learn from previous iterations. In this project, I optimize a Recurrent Neural Network by tuning parameters and testing different activation functions to predict the number of sunspots. Sunspots are temporary phenomena on the Sun's surface that appear as spots darker than the surrounding areas.
 
@@ -14,7 +14,7 @@ Recurrent Neural Networks are popular algorithms for time-series data because of
 RNN Tutorial and Code on [Colab](https://colab.research.google.com/drive/15Ds5RIl_UsCtSdzPy81jioiMEdDeWld2)
 
 ---
-### Can we reverse engineer FitBit's Sleep Score Algorithm? Stacking for Improved Model Performance
+## Can we reverse engineer FitBit's Sleep Score Algorithm? Stacking for Improved Model Performance
 
 Model Stacking can improve performance by combining the outputs of multiple models. In this project, I combine KNN, Linear Regression, Random Forest, and Decision Tree models into a singular algorithm to predict the 'Sleep Score' FitBit provides. Dataset can be found [here.](https://www.kaggle.com/code/sasakitetsuya/how-can-we-get-good-sleep-fitbit-data-analysis/input) 
 
@@ -26,7 +26,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1dG6bgo5Q-5RafGMY5P
 
 ---
 
-### XGBoost for Classification
+## XGBoost for Classification
 
 Extreme Gradient Boosting (XGBoost) is one of the most powerful machine learning algorithms for both regression and classification. In this project, I build an XGBoost model in scikit-learn to classify a penguin's species given its quantifiable characteristics. Dataset can be found [here.](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)  
 
@@ -37,7 +37,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 
 ---
 
-### Airline Customer Satisfaction: Tree Based Models
+## Airline Customer Satisfaction: Tree Based Models
 
 Tree based models like Decision Trees are based on conditional splits in data to categorize obervations into buckets. When building an algorithm, I often start with a decision tree for visualization and feature importance purposes. The first picture below visualizes a simple decision tree with a maximum node depth of 3. We can see  the conditional splits the algorithm makes in order to predict whether an airline customer was satisfied with their flight. Additionally, with Decision Tree Models and and most machine learning algorithms, we can view feature importance. The second graw displays feature importance, or in other words, the variables most important to a customers flight satisfaction.
 
@@ -51,13 +51,13 @@ View Code on [Colab](https://colab.research.google.com/drive/1L2LeBlE9ZdVIZBbcMY
 
 ---
 
-### View my Certifications Here:
+## View my Certifications Here:
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e1bfb402-80b5-48e3-bc4c-6e8d35a38ccf/public_url)
 - [Alteryx Designer Advanced](https://www.credly.com/badges/4d230b45-c14c-4f26-a6ec-6d3d733cfe67/public_url)
 - [R Programming from Johns Hopkins University](https://www.coursera.org/account/accomplishments/verify/78HGXND3FNET?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Python](https://www.udemy.com/certificate/UC-cf8d25d4-01d5-487a-95cb-39d4f19804f0/)
 
-### View my CV on Tableau Public [Here](https://public.tableau.com/app/profile/chris6170/viz/ChrisOkura-CurriculumVitae/CV)
+## View my CV on Tableau Public [Here](https://public.tableau.com/app/profile/chris6170/viz/ChrisOkura-CurriculumVitae/CV)
 
 
