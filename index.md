@@ -4,7 +4,7 @@
 
 ## Timeseries Forecasting: Recurrent Neural Networks
 
-Recurrent Neural Networks are popular algorithms for time-series data because of their ability to retain memory and learn from previous iterations. In this project, I optimize a Recurrent Neural Network by tuning parameters and testing different activation functions to predict the number of sunspots. Sunspots are temporary phenomena on the Sun's surface that appear as spots darker than the surrounding areas.
+Recurrent Neural Networks are popular algorithms for time-series data because of their ability to retain memory and learn from previous iterations. In this project, I optimize a Recurrent Neural Network by tuning parameters and testing different activation functions to forecast sunspots. Sunspots are temporary phenomena on the Sun's surface that appear as spots darker than the surrounding areas.
 
 <img src="images/RNN_Sunspots_.jpg?raw=true"/>
 
