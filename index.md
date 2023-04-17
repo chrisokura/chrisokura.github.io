@@ -16,7 +16,7 @@ RNN Tutorial and Code on [Colab](https://colab.research.google.com/drive/15Ds5RI
 ---
 ## Can we reverse engineer FitBit's Sleep Score Algorithm? Stacking for Improved Model Performance
 
-Model Stacking can improve performance by combining the outputs of multiple models. In this project, I combine KNN, Linear Regression, Random Forest, and Decision Tree models into a singular algorithm to predict the 'Sleep Score' FitBit provides. Dataset can be found [here.](https://www.kaggle.com/code/sasakitetsuya/how-can-we-get-good-sleep-fitbit-data-analysis/input) 
+Stacking can improve performance by combining the outputs of multiple models. In this project, I combine KNN, Linear Regression, Random Forest, and Decision Tree models into a singular algorithm to predict the 'Sleep Score' FitBit provides. Dataset can be found [here.](https://www.kaggle.com/code/sasakitetsuya/how-can-we-get-good-sleep-fitbit-data-analysis/input) 
 
 <img src="images/Stacking and Bagging.jpg?raw=true"/>
 
