@@ -16,7 +16,7 @@ RNN Tutorial and Code on [Colab](https://colab.research.google.com/drive/15Ds5RI
 ---
 ## Can we reverse engineer FitBit's Sleep Score Algorithm? Stacking for Improved Model Performance
 
-Stacking can improve performance by combining outputs of multiple models. In this project, I combine KNN, Linear Regression, Support Vector Machine, and Decision Tree models into a singular algorithm to predict the 'Sleep Score' provided by FitBit. Dataset can be found [here.](https://www.kaggle.com/code/sasakitetsuya/how-can-we-get-good-sleep-fitbit-data-analysis/input) 
+Stacking can improve performance by combining outputs of multiple models. In this project, I leverage KNN, Linear Regression, Support Vector Machine, and Decision Tree models to create a singular algorithm to predict the 'Sleep Score' provided by FitBit. Dataset can be found [here.](https://www.kaggle.com/code/sasakitetsuya/how-can-we-get-good-sleep-fitbit-data-analysis/input) 
 
 <img src="images/Stacking and Bagging.jpg?raw=true"/>
 
@@ -28,7 +28,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1dG6bgo5Q-5RafGMY5P
 
 ## XGBoost for Classification
 
-Extreme Gradient Boosting (XGBoost) is one of the most powerful machine learning algorithms for both regression and classification. In this project, I build an XGBoost model in scikit-learn to classify a penguin's species. Dataset can be found [here.](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)  
+Extreme Gradient Boosting (XGBoost) is one of the most powerful algorithms for both regression and classification. In this project, I build an XGBoost model in scikit-learn to classify a penguin's species. Dataset can be found [here.](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)  
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
 
@@ -39,7 +39,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 
 ## Airline Customer Satisfaction: Tree Based Models
 
-Tree based models like Decision Trees are based on conditional splits in data to categorize obervations into buckets. When building an algorithm, I often start with a decision tree for visualization and feature importance purposes. The first picture below visualizes a simple decision tree with a maximum node depth of 3. We can see  the conditional splits the algorithm makes in order to predict an airline customer's satisfaction. The second graph displays feature importance, or in other words, the variables most important in determining a customer's experience. 
+Tree based models like Decision Trees are based on conditional splits in data to categorize obervations into buckets. When building an algorithm, I often start with a decision tree for visualization and feature importance purposes. The first picture below visualizes a simple decision tree with a maximum node depth of 3 where we can visualize the conditional splits the algorithm makes. The second graph displays feature importance, or in other words, the variables most important in determining an airline customer's satisfaction. 
 
 <img src="images/Decision Tree.jpg?raw=true"/>
 <br><br>
