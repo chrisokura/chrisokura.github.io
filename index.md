@@ -4,7 +4,7 @@
 
 ## Timeseries Forecasting: Recurrent Neural Networks
 
-Recurrent Neural Networks are popular algorithms for time-series data because of their ability to retain memory and learn from previous iterations. In this project, I optimize a Recurrent Neural Network by tuning parameters and testing different activation functions to forecast sunspots. Sunspots are temporary phenomena on the Sun's surface that appear as spots darker than the surrounding areas.
+Recurrent Neural Networks are popular algorithms for time-series data because of their ability to retain memory and learn from previous iterations. In this project, I optimize a Recurrent Neural Network by tuning parameters and testing different activation functions to forecast sunspots.
 
 <img src="images/RNN_Sunspots_.jpg?raw=true"/>
 
@@ -16,7 +16,7 @@ RNN Tutorial and Code on [Colab](https://colab.research.google.com/drive/15Ds5RI
 ---
 ## Can we reverse engineer FitBit's Sleep Score Algorithm? Stacking for Improved Model Performance
 
-Stacking can improve performance by combining the outputs of multiple models. In this project, I combine KNN, Linear Regression, Random Forest, and Decision Tree models into a singular algorithm to predict the 'Sleep Score' provided by FitBit. Dataset can be found [here.](https://www.kaggle.com/code/sasakitetsuya/how-can-we-get-good-sleep-fitbit-data-analysis/input) 
+Stacking can improve performance by combining outputs of multiple models. In this project, I combine KNN, Linear Regression, Support Vector Machine, and Decision Tree models into a singular algorithm to predict the 'Sleep Score' provided by FitBit. Dataset can be found [here.](https://www.kaggle.com/code/sasakitetsuya/how-can-we-get-good-sleep-fitbit-data-analysis/input) 
 
 <img src="images/Stacking and Bagging.jpg?raw=true"/>
 
@@ -39,7 +39,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 
 ## Airline Customer Satisfaction: Tree Based Models
 
-Tree based models like Decision Trees are based on conditional splits in data to categorize obervations into buckets. When building an algorithm, I often start with a decision tree for visualization and feature importance purposes. The first picture below visualizes a simple decision tree with a maximum node depth of 3. We can see  the conditional splits the algorithm makes in order to predict an airline customer's satisfaction. The second graph displays feature importance, or in other words, the variables more important in determining a customer's experience. 
+Tree based models like Decision Trees are based on conditional splits in data to categorize obervations into buckets. When building an algorithm, I often start with a decision tree for visualization and feature importance purposes. The first picture below visualizes a simple decision tree with a maximum node depth of 3. We can see  the conditional splits the algorithm makes in order to predict an airline customer's satisfaction. The second graph displays feature importance, or in other words, the variables most important in determining a customer's experience. 
 
 <img src="images/Decision Tree.jpg?raw=true"/>
 <br><br>
