@@ -42,7 +42,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1L2LeBlE9ZdVIZBbcMY
 
 ## XGBoost for Classification
 
-Extreme Gradient Boosting (XGBoost) is one of the most powerful algorithms for both regression and classification. In this project, I build an XGBoost model in scikit-learn to classify a penguin's species. Dataset can be found [here.](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)  
+Extreme Gradient Boosting (XGBoost) algorithms attempt to accurately predict a target variable by leveraging several 'weak' models. This technique continues to gain popularity and is one of the go to algorithms for Kaggle winners. In this project, I build an XGBoost model in scikit-learn to classify a penguin's species. Dataset can be found [here.](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZxzYgYgvYsj324zU)  
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
 
