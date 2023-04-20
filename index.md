@@ -57,6 +57,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 - [R Programming from Johns Hopkins University](https://www.coursera.org/account/accomplishments/verify/78HGXND3FNET?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Python](https://www.udemy.com/certificate/UC-cf8d25d4-01d5-487a-95cb-39d4f19804f0/)
 - [Microsoft Excel](https://www.credly.com/badges/542cb419-0e9e-4be7-98e8-5e44e790cd79/public_url)
+- [VBA](https://www.udemy.com/certificate/UC-d4172503-6f9e-46f3-90b3-2bdd5cf404c3/)
 
 ### View my CV on Tableau Public [Here](https://public.tableau.com/app/profile/chris6170/viz/ChrisOkura-CurriculumVitae/CV)
 
