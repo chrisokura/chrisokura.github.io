@@ -53,7 +53,7 @@ View Code on [Colab](https://colab.research.google.com/drive/1OkmLUBJBocbNV9gbZx
 ### View my Certifications Here:
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e1bfb402-80b5-48e3-bc4c-6e8d35a38ccf/public_url)
-- [Alteryx Designer Advanced](https://www.credly.com/badges/4d230b45-c14c-4f26-a6ec-6d3d733cfe67/public_url)
+- [Alteryx Designer Core](https://www.credly.com/earner/earned/badge/bb544014-9530-4daf-a1f0-e2da4ccb2306) and [Alteryx Designer Advanced](https://www.credly.com/badges/4d230b45-c14c-4f26-a6ec-6d3d733cfe67/public_url)
 - [R Programming from Johns Hopkins University](https://www.coursera.org/account/accomplishments/verify/78HGXND3FNET?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Python](https://www.udemy.com/certificate/UC-cf8d25d4-01d5-487a-95cb-39d4f19804f0/)
 
